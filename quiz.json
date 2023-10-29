@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Select body areas you would like to improve:",
+      "options": ["Breast shape", "Arms", "Belly", "Buttocks", "Legs and thighs"]
+    },
+    {
+      "id": 2,
+      "question": "Which vitamin is known as the 'sunshine vitamin'?",
+      "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"]
+    },
+    {
+      "id": 3,
+      "question": "What is the primary function of the cardiovascular system?",
+      "options": ["Breathing", "Digestion", "Circulating blood", "Reproduction"]
+    },
+    {
+      "id": 4,
+      "question": "Which nutrient is essential for strong bones and teeth?",
+      "options": ["Vitamin C", "Calcium", "Iron", "Fiber"]
+    },
+    {
+      "id": 5,
+      "question": "What is the primary cause of skin cancer?",
+      "options": ["Sun exposure", "Air pollution", "Infections", "Poor diet"]
+    },
+    {
+      "id": 6,
+      "question": "What is the recommended daily intake of fruits and vegetables?",
+      "options": ["1-2 servings", "3-4 servings", "5-6 servings", "7-8 servings"]
+    },
+    {
+      "id": 7,
+      "question": "What is a common symptom of dehydration?",
+      "options": ["Thirst", "Sweating", "Fever", "Hunger"]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a good source of protein?",
+      "options": ["Pasta", "Banana", "Chicken", "Soda"]
+    },
+    {
+      "id": 9,
+      "question": "What is the average heart rate for a resting adult?",
+      "options": ["60-80 bpm", "100-120 bpm", "140-160 bpm", "180-200 bpm"]
+    },
+    {
+      "id": 10,
+      "question": "What is the primary function of the immune system?",
+      "options": ["Digestion", "Protection against diseases", "Reproduction", "Circulation"]
+    },
+    {
+      "id": 11,
+      "question": "Which nutrient helps regulate blood sugar levels?",
+      "options": ["Protein", "Fiber", "Vitamin C", "Sugar"]
+    },
+    {
+      "id": 12,
+      "question": "What is the normal body temperature for a human?",
+      "options": ["32°C", "36°C", "37°C", "40°C"]
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is a good source of vitamin C?",
+      "options": ["Milk", "Orange", "Egg", "Bread"]
+    },
+    {
+      "id": 14,
+      "question": "What is a common symptom of the flu?",
+      "options": ["Sneezing", "Coughing", "Fever", "Hiccups"]
+    },
+    {
+      "id": 15,
+      "question": "Which food group provides the most energy (calories) per gram?",
+      "options": ["Proteins", "Carbohydrates", "Fats", "Fruits"]
+    },
+    {
+      "id": 16,
+      "question": "What is the ideal BMI (Body Mass Index) range for adults?",
+      "options": ["Below 18.5", "18.5-24.9", "25-29.9", "30 and above"]
+    },
+    {
+      "id": 17,
+      "question": "What is the healthy range for resting heart rate in adults?",
+      "options": ["Less than 60 bpm", "60-100 bpm", "More than 100 bpm"]
+    },
+    {
+      "id": 18,
+      "question": "What are the primary macronutrients in a balanced diet?",
+      "options": ["Proteins, Carbohydrates, Fats", "Carbohydrates, Proteins, Fats", "Vitamins, Minerals, Water"]
+    },
+    {
+      "id": 19,
+      "question": "What is the ideal daily step count for maintaining an active lifestyle?",
+      "options": ["500 steps", "2,000 steps", "10,000 steps", "20,000 steps"]
+    },
+    {
+      "id": 20,
+      "question": "What is the ideal body fat percentage for men and women?",
+      "options": ["10-15% for men, 20-25% for women", "5-10% for men, 15-20% for women", "15-20% for men, 25-30% for women"]
+    }
+  ]
+}
